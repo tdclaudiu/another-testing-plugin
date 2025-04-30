@@ -1,7 +1,7 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "",
+    "name": "this is a new plugin, i want to put a longer name to see how it looks likeee",
     "entryPoint": "",
     "categories": ["disassembly-and-processor-modules"],
     "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
