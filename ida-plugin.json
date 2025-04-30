@@ -2,7 +2,7 @@
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
     "name": "this is a new plugin, i want to put a longer name to see how it looks likeee",
-    "entryPoint": "",
+    "entryPoint": "this should be my entrypoint, tbh idk what the entrypoint is",
     "categories": ["disassembly-and-processor-modules"],
     "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
     "idaVersions": "9.1",
